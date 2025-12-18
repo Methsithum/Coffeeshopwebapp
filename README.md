@@ -224,7 +224,7 @@ module.exports = {
 ## 📞 Support & Contact
 
 For questions or support:
-- **Email**: your.email@example.com
+- **Email**: rmethsithum@gmail.com
 - **GitHub Issues**: [Create an issue](https://github.com/yourusername/grand-cafe/issues)
 
 ## 📄 License
